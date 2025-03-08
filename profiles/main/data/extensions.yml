@@ -1,0 +1,14 @@
+disabled:
+  - id: Shan.code-settings-sync
+    uuid: 00000000-0000-0000-0000-000000000000
+enabled:
+  - id: GitHub.copilot
+    uuid: null
+  - id: heminei.pro-deployer
+    uuid: null
+  - id: KnisterPeter.vscode-github
+    uuid: 8699dfcb-4beb-4760-b976-c46dcdd87df2
+  - id: shufo.vscode-blade-formatter
+    uuid: 68a2e971-8ae5-493b-9c34-f4233fb14e40
+  - id: zokugun.cron-tasks
+    uuid: b7bbbbd5-7a39-4312-87aa-ef6a41de67fb

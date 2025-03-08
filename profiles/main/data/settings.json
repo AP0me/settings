@@ -1,0 +1,10 @@
+{
+    "workbench.tree.enableStickyScroll": false,
+    "editor.stickyScroll.enabled": false,
+    "files.autoSave": "afterDelay",
+    "git.enableSmartCommit": true,
+    "git.confirmSync": false,
+    "git.openRepositoryInParentFolders": "never",
+    "workbench.preferredHighContrastColorTheme": "Default Dark Modern",
+    "sync.gist": "07af42ff0c363913c2d8fa42631c413f"
+}
